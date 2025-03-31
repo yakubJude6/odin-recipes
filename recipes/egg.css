@@ -1,0 +1,42 @@
+* {
+    text-align: center;
+    list-style: none;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img {
+    width: 500px;
+    height: auto;
+    border: 2px solid black;
+}
+
+body {
+    background-color: greenyellow;
+}
+
+ul li {
+    font-size: 20px;
+    color: white;
+    background-color: black;
+}
+
+
+ol li {
+    font-size: 20px;
+    color: black;
+    background-color: black;
+    color: blueviolet;
+}
+
+a {
+    color: black;
+    font-size: 20px;
+}
+
+h2,h3,h4 {
+    background-color: red;
+}
+
