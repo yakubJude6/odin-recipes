@@ -50,7 +50,7 @@ img {
 }
 
 .red {
-    color: red;
+    color: rgba(255, 0, 0, 0.87);
 }
 
 .green {
