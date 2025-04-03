@@ -4,12 +4,33 @@
     text-decoration: none;
     font-weight: bold;
     color: white;
+    margin: 0 auto;
+    margin-bottom: 10px;
+   box-sizing: border-box;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+.col {
+    color: black;
+}
 
+.desc {
+    background-color: black;
+    padding: 10px;
+}
+
+.c {
+    background-color: red;
+    padding: 10px;
+    border: 10px solid red;
+    display: inline-block;
+}
+ol {
+    background-color: green;
+}
 img {
     width: 500px;
     height: auto;
+    border: 2px solid black;
 }
 
 body {
@@ -36,4 +57,9 @@ a {
 
 h2,h3,h4 {
     background-color: blue;
+}
+
+.b {
+    background-color: saddlebrown;
+    display: block;
 }

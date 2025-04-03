@@ -4,6 +4,10 @@
     text-decoration: none;
     font-weight: bold;
     color: black;
+    box-sizing: border-box;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    padding: 0;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
@@ -40,3 +44,26 @@ h2,h3,h4 {
     background-color: red;
 }
 
+.yellow {
+    color: yellow;
+    background-color: black;
+}
+
+.description {
+    background-color: wheat;
+    width: 300px;
+}
+
+.foot {
+    background-color: black;
+}
+
+.egg {
+    background-color: yellow;
+    padding: 10px;
+    display: inline-block;
+}
+.mustard {
+    display: block;
+    background-color: yellowgreen;
+}

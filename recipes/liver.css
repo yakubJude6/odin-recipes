@@ -4,12 +4,16 @@
     text-decoration: none;
     font-weight: bold;
     color: white;
+    margin: 0 auto;
+    margin-bottom: 5px;
+    box-sizing: border-box;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 img {
     width: 500px;
     height: auto;
+    border: 2px solid black;
 }
 
 body {
@@ -36,4 +40,33 @@ a {
 
 h2,h3,h4 {
     background-color: red;
+}
+
+.red {
+    color: red;
+}
+
+.description {
+    background-color: aqua;
+    color: black;
+    padding: 5px;
+    width: 400px;
+}
+
+
+.description h1, .description p  {
+color: black;
+}
+
+.milk {
+    background-color: white;
+    color: black;
+    padding: 15px;
+  display: inline-block;
+    
+}
+
+.butter {
+    display: block;
+    color: gold;
 }
